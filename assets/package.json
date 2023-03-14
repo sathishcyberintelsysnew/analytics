@@ -35,7 +35,7 @@
     "debounce-promise": "^3.1.2",
     "iframe-resizer": "^4.3.2",
     "mini-css-extract-plugin": "^1.6.0",
-    "phoenix": "1.5.0",
+    "phoenix": "1.6.16",
     "phoenix_html": "2.12",
     "postcss": "^8.3.0",
     "postcss-loader": "^6.1.1",
